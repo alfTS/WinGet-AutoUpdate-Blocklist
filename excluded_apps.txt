@@ -10,3 +10,10 @@ Opera.Opera*
 TeamViewer.TeamViewer*
 Romanitho.Winget-AutoUpdate
 KnifMelti.WAU-Settings-GUI
+Sophos*
+Swyx*
+DisplayLink*
+TEC-IT*
+Microsoft.WSL
+Citrix.Workspace*
+Microsoft.PowerBI*
