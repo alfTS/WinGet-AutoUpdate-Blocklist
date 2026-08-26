@@ -15,5 +15,10 @@ Swyx*
 DisplayLink*
 TEC-IT*
 Microsoft.WSL
+KeeperSecurity*
+Adobe.Acrobat*
 Citrix.Workspace*
+Apple.iTunes
+GIMP.GIMP
+OBSProject.OBSStudio
 Microsoft.PowerBI*
