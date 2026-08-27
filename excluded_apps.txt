@@ -22,3 +22,5 @@ Apple.iTunes
 GIMP.GIMP
 OBSProject.OBSStudio
 Microsoft.PowerBI*
+Enreach.*
+Microsoft.AppInstaller
